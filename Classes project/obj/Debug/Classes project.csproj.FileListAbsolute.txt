@@ -4,3 +4,6 @@ c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Classes project\Cl
 c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Classes project\Classes project\obj\Debug\Classes project.csprojResolveAssemblyReference.cache
 c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Classes project\Classes project\obj\Debug\Classes project.exe
 c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Classes project\Classes project\obj\Debug\Classes project.pdb
+C:\Users\iykef\Source\Repos\First-Project-Using-Classes\Classes project\bin\Debug\Classes project.exe.config
+C:\Users\iykef\Source\Repos\First-Project-Using-Classes\Classes project\obj\Debug\Classes project.exe
+C:\Users\iykef\Source\Repos\First-Project-Using-Classes\Classes project\obj\Debug\Classes project.pdb
